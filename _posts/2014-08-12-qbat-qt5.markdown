@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "qbat updated for Qt5"
+date:   2014-08-12 14:01:39
+categories: cpp code linux qt
+---
+
+I just finished to setup a new system and I found out that I still have ‘qt4′ package for only one application : ‘qbat’.
+
+qbat is a small tool based on qt4 to display battery stats in system tray, it’s small, lightweight and useful. I like it so I updated it for qt5 and here are the links :
+
+ * [AUR package]
+ * [qbat on github]
+
+Or if you’re on Arch Linux just type :
+
+    yaourt -S qbat-qt5
+
+[AUR package]: https://aur.archlinux.org/packages/qbat-qt5/
+[qbat on github]: https://github.com/gogoprog/qbat
