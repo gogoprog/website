@@ -29,9 +29,12 @@ a:visited { color: #205caa; }
 .wrap:after { clear: both; }
 .wrap {
   max-width: 800px;
-  padding: 0 30px;
+  padding: 20px 30px;
   margin: 0 auto;
   zoom: 1;
+  background:#eee;
+  border-style: dashed;
+  border-width: 1px;
 }
 
 
@@ -224,6 +227,8 @@ a:visited { color: #205caa; }
 
 .post-content ul,
 .post-content ol { padding-left: 20px; }
+
+ul.posts { list-style-type: square; margin-left:50px;}
 
 .post pre,
 .post code {
