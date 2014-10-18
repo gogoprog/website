@@ -54,13 +54,18 @@ a:visited { color: #205caa; }
 .site-title:hover,
 .site-title:visited {
   display: block;
-  color: #333;
-  font-size: 26px;
+  color: black;
+  font-size: 36px;
   letter-spacing: -1px;
   float: left;
   line-height: 56px;
   position: relative;
   z-index: 1;
+  text-decoration:none;
+}
+
+.site-title:hover{
+  color:blue;
 }
 
 .site-nav {
@@ -71,9 +76,19 @@ a:visited { color: #205caa; }
 .site-nav .menu-icon { display: none; }
 
 .site-nav .page-link {
-  margin-left: 20px;
+  margin-left: 21px;
   color: #727272;
   letter-spacing: -.5px;
+  font-weight:bold;
+    color:white;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.page-link:hover {
+  color: blue;
+  text-decoration:none;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 }
 
 /* Site footer */
@@ -154,9 +169,14 @@ a:visited { color: #205caa; }
 .posts li { margin-bottom: 30px; }
 
 .posts .post-link {
-  font-size: 24px;
+  font-size: 23px;
   letter-spacing: -1px;
   line-height: 1;
+}
+
+.post-link:hover {
+  text-decoration:none;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .posts .post-date {
@@ -176,6 +196,9 @@ a:visited { color: #205caa; }
   letter-spacing: -1.75px;
   line-height: 1;
   font-weight: bold;
+  color:white;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+
 }
 
 .post-header .meta {
@@ -188,7 +211,6 @@ a:visited { color: #205caa; }
 
 .post-content > * { margin: 20px 0; }
 
-
 .post-content h1,
 .post-content h2,
 .post-content h3,
@@ -200,9 +222,17 @@ a:visited { color: #205caa; }
   margin: 40px 0 20px;
 }
 
+.page-content h1 {
+  font-size:36px;
+  color:white;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
 .post-content h2 {
   font-size: 32px;
   letter-spacing: -1.25px;
+    color:white;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 .post-content h3 {
@@ -423,4 +453,14 @@ ul.posts { list-style-type: square; margin-left:50px;}
 .separator {
   clear:both;
   margin-top:5px;
+}
+
+hr {
+    color: #333;
+    text-align: center;
+    clear:both;
+}
+
+.post-content hr {
+    margin-top:30px;
 }
