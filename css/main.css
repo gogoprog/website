@@ -417,6 +417,7 @@ ul.posts { list-style-type: square; margin-left:50px;}
 .screenshot {
   float:left;
   margin-right:15px;
+  width:354px;
 }
 
 .separator {

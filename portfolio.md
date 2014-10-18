@@ -17,3 +17,14 @@ A game made during Global Gam Jam 2014 in Antwerpen.
 <div class="separator"></div>
 
 <hr/>
+## Ultimate Care Bear Love Rampage
+
+![screenshot](http://2013.globalgamejam.org/sites/default/files/styles/large/public/screenshots/2013/UltimateCareBearLoveRampage_1.0.png){: .screenshot}
+
+A game made during Global Gam Jam 2013 in Antwerpen.
+
+[More info](http://2013.globalgamejam.org/2013/ultimate-care-bear-love-rampage)
+
+<div class="separator"></div>
+
+<hr/>
