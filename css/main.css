@@ -181,10 +181,9 @@ a:visited { color: #205caa; }
 
 .posts .post-date {
   display: block;
-  font-size: 15px;
+  font-size: 10px;
   color: #818181;
 }
-
 
 /* Post styles */
 /* ----------------------------------------------------------*/
@@ -202,7 +201,7 @@ a:visited { color: #205caa; }
 }
 
 .post-header .meta {
-  font-size: 15px;
+  font-size: 10px;
   color: #818181;
   margin-top: 5px;
 }
