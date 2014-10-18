@@ -413,3 +413,13 @@ ul.posts { list-style-type: square; margin-left:50px;}
     margin: 0 0 15px; }
 
 }
+
+.screenshot {
+  float:left;
+  margin-right:15px;
+}
+
+.separator {
+  clear:both;
+  margin-top:5px;
+}
