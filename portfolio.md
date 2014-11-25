@@ -5,6 +5,19 @@ permalink: /portfolio/
 ---
 
 <hr/>
+## Redneck Galaxy
+
+![screenshot](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10801502_10205553394260510_6364292390281903079_n.jpg?oh=1ea0aaf66fb8b2b98855a16a6802c3d6&oe=551DA53E&__gda__=1428068715_bdaa2e29d7a9429f85153085b43dfda5){: .screenshot}
+
+Game done during Monster Game Jam 2014.
+
+[Redneck Galaxy](http://gogoprog.itch.io/redneck-galaxy)
+
+[Sources](https://github.com/gogoprog/monstergamejam2014)
+
+<div class="separator"></div>
+
+<hr/>
 ## Crappy Bird
 
 ![screenshot](https://scontent-b-ams.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10356327_10205280416036225_5171469955861896943_n.jpg?oh=821da747a6be92ce15781fba8981b6be&oe=54ABF767){: .screenshot}
