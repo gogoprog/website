@@ -3,6 +3,19 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
+<hr/>
+
+## The Village Cool Guys vs Bad Green Monsters
+
+![screenshot](http://globalgamejam.org/sites/default/files/styles/game_sidebar__wide/public/game/featured_image/screen_8.png?itok=UkVlrmNa){: .screenshot}
+
+A village management game done during Global Game Jam 2015 in Brussels.
+
+[GGJ entry](http://globalgamejam.org/2015/games/village-cool-guys-vs-bad-green-monsters)
+
+[Sources](https://github.com/gogoprog/ggj15)
+
+<div class="separator"></div>
 
 <hr/>
 ## Redneck Galaxy
