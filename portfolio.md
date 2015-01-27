@@ -15,6 +15,8 @@ A village management game done during Global Game Jam 2015 in Brussels.
 
 [Sources](https://github.com/gogoprog/ggj15)
 
+[Play!](https://village-cool-guys.bitballoon.com/)
+
 <div class="separator"></div>
 
 <hr/>
