@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "gengine 0.1 released!"
+date:   2015-04-23 20:35:00
+categories: gengine
+---
+
+It is finally time to start releasing the engine I started a year ago:
+
+ * [http://gengine.net](The main website gengine.net)
+ * [https://github.com/gogoprog/gengine](The github repository)
+
+What is gengine?
+
+ * A 2d game engine with Lua scripting
+ * No visual editor, text only
+ * Entities and components system
+ * Aimed for fast development, good for gamejams or prototypes
+ * UI is pure HTML5
+ * Linux and Windows support
+ * Can be compiled to HTML5 through emscripten
+
+Feel free to contact me for any questions, please use github for issues!
+
