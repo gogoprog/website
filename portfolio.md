@@ -5,6 +5,20 @@ permalink: /portfolio/
 ---
 <hr/>
 
+## Objectif: Niquer Au Plutaupe
+
+![screenshot](https://fbcdn-photos-d-a.akamaihd.net/hphotos-ak-xfp1/t39.2082-0/p528x396/11057025_495335847280867_347725260_n.jpg){: .screenshot}
+
+A labyrinth game with a blind mole. Made during the CreativeJam 2015 in Mons.
+
+[Facebook page](https://www.facebook.com/games/objectifnap/)
+
+[Sources](https://github.com/gogoprog/creativejam2015)
+
+[Play!](https://onap.bitballoon.com/)
+
+<div class="separator"></div>
+
 ## The Village Cool Guys vs Bad Green Monsters
 
 ![screenshot](http://globalgamejam.org/sites/default/files/styles/game_sidebar__wide/public/game/featured_image/screen_8.png?itok=UkVlrmNa){: .screenshot}
@@ -22,7 +36,7 @@ A village management game done during Global Game Jam 2015 in Brussels.
 <hr/>
 ## Redneck Galaxy
 
-![screenshot](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10801502_10205553394260510_6364292390281903079_n.jpg?oh=1ea0aaf66fb8b2b98855a16a6802c3d6&oe=551DA53E&__gda__=1428068715_bdaa2e29d7a9429f85153085b43dfda5){: .screenshot}
+![screenshot](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10801502_10205553394260510_6364292390281903079_n.jpg?oh=7423526539a2a4470bcbf857c0622e41&oe=55E3663E&__gda__=1441028715_dfcc3f9a5902f851040ba30b0ce0cb0e){: .screenshot}
 
 Game done during Monster Game Jam 2014.
 
@@ -35,7 +49,7 @@ Game done during Monster Game Jam 2014.
 <hr/>
 ## Crappy Bird
 
-![screenshot](https://scontent-b-ams.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10356327_10205280416036225_5171469955861896943_n.jpg?oh=821da747a6be92ce15781fba8981b6be&oe=54ABF767){: .screenshot}
+![screenshot](https://scontent-bru.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10356327_10205280416036225_5171469955861896943_n.jpg?oh=5b9d8aa7276e775cc0ee389d49a9814e&oe=55994567){: .screenshot}
 
 A quickly-done Flappy Bird clone using LÖVE2D.
 
