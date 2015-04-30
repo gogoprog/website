@@ -18,6 +18,7 @@ A labyrinth game with a blind mole. Made during the CreativeJam 2015 in Mons.
 [Play!](https://onap.bitballoon.com/)
 
 <div class="separator"></div>
+<hr/>
 
 ## The Village Cool Guys vs Bad Green Monsters
 
