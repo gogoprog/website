@@ -7,8 +7,8 @@ categories: gengine
 
 It is finally time to start releasing the engine I started a year ago:
 
- * [http://gengine.net](The main website gengine.net)
- * [https://github.com/gogoprog/gengine](The github repository)
+ * [Main website gengine.net](http://gengine.net)
+ * [Github repository](https://github.com/gogoprog/gengine)
 
 What is gengine?
 
