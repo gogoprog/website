@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "gengine 0.2 released!"
+date:   2015-11-29 09:48:00
+categories: gengine
+---
+
+The second release of gengine is now available!
+
+ * [gengine.net](http://gengine.net)
+
+Major new features:
+
+ * Spriter support
+ * Spine support
+ * Tiled support
+ * Many bug fixes and improvements
