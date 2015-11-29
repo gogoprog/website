@@ -37,7 +37,7 @@ A village management game done during Global Game Jam 2015 in Brussels.
 <hr/>
 ## Redneck Galaxy
 
-![screenshot](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10801502_10205553394260510_6364292390281903079_n.jpg?oh=7423526539a2a4470bcbf857c0622e41&oe=55E3663E&__gda__=1441028715_dfcc3f9a5902f851040ba30b0ce0cb0e){: .screenshot}
+![screenshot](http://i.imgur.com/AidYpY8.jpg){: .screenshot}
 
 Game done during Monster Game Jam 2014.
 
@@ -50,7 +50,7 @@ Game done during Monster Game Jam 2014.
 <hr/>
 ## Crappy Bird
 
-![screenshot](https://scontent-bru.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10356327_10205280416036225_5171469955861896943_n.jpg?oh=5b9d8aa7276e775cc0ee389d49a9814e&oe=55994567){: .screenshot}
+![screenshot](http://i.imgur.com/nxZU48A.jpg){: .screenshot}
 
 A quickly-done Flappy Bird clone using LÖVE2D.
 
