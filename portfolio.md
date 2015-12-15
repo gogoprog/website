@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio
+title: gogopr.org portfolio
 permalink: /portfolio/
 ---
 <hr/>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: gogopr.org about
 permalink: /about/
 ---
 
